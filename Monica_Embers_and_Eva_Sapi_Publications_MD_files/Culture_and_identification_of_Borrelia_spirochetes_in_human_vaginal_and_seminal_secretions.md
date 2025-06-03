@@ -1,0 +1,14 @@
+# Culture and identification of Borrelia spirochetes in human vaginal and seminal secretions
+
+**Authors:** Middelveen MJ;Burke J;Sapi E;Bandoski C;Filush KR;Wang Y;Franco A;Timmaraju A;Schlinger HA;Mayne PJ;Stricker RB;  
+**Date:** 12/18/2014  
+**Journal:** F1000Research  
+**DOI:** 10.12688/f1000research.5778.3  
+**PMID:** 28690828  
+**URL:** https://pubmed.ncbi.nlm.nih.gov/28690828/
+
+---
+
+## Content
+
+Background:Recent reports indicate that more than 300,000 cases of Lyme disease are diagnosed yearly in the USA. Preliminary clinical, epidemiological and immunological studies suggest that infection with the Lyme disease spirocheteBorrelia burgdorferi(Bb) could be transferred from person to person via intimate human contact without a tick vector. Failure to detect viableBorreliaspirochetes in vaginal and seminal secretions would argue against this hypothesis.Methods:Patients with and without a history of Lyme disease were selected for the study after informed consent was obtained. Serological testing for Bb was performed on all subjects. Semen or vaginal secretions were inoculated into BSK-H medium and cultured for four weeks. Examination of genital cultures and culture concentrates for the presence of spirochetes was performed using light and darkfield microscopy, and spirochete concentrates were subjected to Dieterle silver staining, anti-Bb immunohistochemical staining, molecular hybridization and PCR analysis for further characterization. Immunohistochemical and molecular testing was performed in three independent laboratories in a blinded fashion. Positive and negative controls were included in all experiments.Results:Control subjects who were asymptomatic and seronegative for Bb had no detectable spirochetes in genital secretions by PCR analysis. In contrast, spirochetes were observed in cultures of genital secretions from 11 of 13 subjects diagnosed with Lyme disease, and motile spirochetes were detected in genital culture concentrates from 12 of 13 Lyme disease patients using light and darkfield microscopy. Morphological features of spirochetes were confirmed by Dieterle silver staining and immunohistochemical staining of culture concentrates. Molecular hybridization and PCR testing confirmed that the spirochetes isolated from semen and vaginal secretions were strains ofBorrelia, and all cultures were negative for treponemal spirochetes. PCR sequencing of cultured spirochetes from three couples having unprotected sex indicated that two couples had identical strains of Bbsensu strictoin their semen and vaginal secretions, while the third couple had identical strains ofB. hermsiidetected in their genital secretions.Conclusions:The culture of viableBorreliaspirochetes in genital secretions suggests that Lyme disease could be transmitted by intimate contact from person to person. Further studies are needed to evaluate this hypothesis.
