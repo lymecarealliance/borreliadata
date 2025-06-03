@@ -51,15 +51,14 @@ We welcome contributions from the community! Please help us maintain consistency
 
 Each contribution should follow this basic structure:
 
-```markdown
----
+
 title: "Title of the Paper or Report"
 authors: "Jane Doe, John Smith"
 journal: "Journal Name"
 date: "YYYY-MM-DD"
 doi: "https://doi.org/... "
 tags: ["tag1", "tag2", ...]
----
+
 
 [Summary or full text of the paper in Markdown format]
 
@@ -72,7 +71,8 @@ This project is licensed under the [CC BY-SA 4.0](https://creativecommons.org/li
 
 ## 👥 Contact
 
-Maintained by LymeCare Alliance Ltd  
+Maintained by LymeCare Alliance Ltd
+Website: https://lymecare.org
 GitHub: [@lymecarealliance](https://github.com/lymecarealliance )  
 Email: contacts at lymecare.org
 
